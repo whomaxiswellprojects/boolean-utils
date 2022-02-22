@@ -43,7 +43,14 @@ module.exports = {
         return this.containsBoolean(string);
     },
 
+    /**
+     * FALSE returns false
+     */
     FALSE = false,
+
+    /**
+     * TRUE returns true
+     */
     TRUE = true,
 
     /**
